@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="702d3ec0-42c9-45c9-b260-4f4c4dd22436" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/App.jsx" afterPath="$PROJECT_DIR$/src/components/App.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topics/backend.js" afterPath="$PROJECT_DIR$/src/topics/backend.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topics/container.js" afterPath="$PROJECT_DIR$/src/topics/container.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topics/graphql-impl.js" afterPath="$PROJECT_DIR$/src/topics/graphql-impl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topics/graphql-schema.js" afterPath="$PROJECT_DIR$/src/topics/graphql-schema.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topics/mutation-type.js" afterPath="$PROJECT_DIR$/src/topics/mutation-type.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topics/mutations.js" afterPath="$PROJECT_DIR$/src/topics/mutations.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topics/network-layer.js" afterPath="$PROJECT_DIR$/src/topics/network-layer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topics/object-type-fields.js" afterPath="$PROJECT_DIR$/src/topics/object-type-fields.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topics/object-type.js" afterPath="$PROJECT_DIR$/src/topics/object-type.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topics/query-config.js" afterPath="$PROJECT_DIR$/src/topics/query-config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topics/query-type.js" afterPath="$PROJECT_DIR$/src/topics/query-type.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topics/react-component.js" afterPath="$PROJECT_DIR$/src/topics/react-component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topics/relay.js" afterPath="$PROJECT_DIR$/src/topics/relay.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topics/root-container.js" afterPath="$PROJECT_DIR$/src/topics/root-container.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topics/schema-copy.js" afterPath="$PROJECT_DIR$/src/topics/schema-copy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topics/web-framework.js" afterPath="$PROJECT_DIR$/src/topics/web-framework.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/why-relay.html" afterPath="$PROJECT_DIR$/docs/why-relay.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,6 +21,16 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="why-relay.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/why-relay.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="79" column="100" lean-forward="false" selection-start-line="79" selection-start-column="100" selection-end-line="79" selection-end-column="100" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="object-type-fields.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/topics/object-type-fields.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mutation-type.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mutation-type.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/topics/mutation-type.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="231" lean-forward="false" selection-start-line="4" selection-start-column="231" selection-end-line="4" selection-end-column="231" />
+            <state relative-caret-position="51">
+              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -96,7 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/docs/why-relay.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/components/App.jsx" />
         <option value="$PROJECT_DIR$/src/topics/relay.js" />
@@ -115,6 +108,7 @@
         <option value="$PROJECT_DIR$/src/topics/object-type-fields.js" />
         <option value="$PROJECT_DIR$/src/topics/query-type.js" />
         <option value="$PROJECT_DIR$/src/topics/mutation-type.js" />
+        <option value="$PROJECT_DIR$/docs/why-relay.html" />
       </list>
     </option>
   </component>
@@ -187,11 +181,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="topics" />
+              <option name="myItemId" value="docs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -275,16 +265,16 @@
       <workItem from="1488391050386" duration="2439000" />
       <workItem from="1488451481914" duration="611000" />
       <workItem from="1488536038652" duration="3096000" />
-      <workItem from="1488545386554" duration="12910000" />
+      <workItem from="1488545386554" duration="18000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19056000" />
+    <option name="totallyTimeSpent" value="24146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20907739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -293,7 +283,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -395,14 +385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/why-relay.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="27" lean-forward="false" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -547,8 +529,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/topics/mutation-type.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="231" lean-forward="false" selection-start-line="4" selection-start-column="231" selection-end-line="4" selection-end-column="231" />
+        <state relative-caret-position="51">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/why-relay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="79" column="100" lean-forward="false" selection-start-line="79" selection-start-column="100" selection-end-line="79" selection-end-column="100" />
           <folding />
         </state>
       </provider>
