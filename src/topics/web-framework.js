@@ -2,6 +2,6 @@ import WebFrameworkDiagram from '../diagrams/web-framework.xml';
 
 export default {
   title: 'Web Framework',
-  description: 'A web framework to take HTTP requests and pass them on to your GraphQL implementation and return their results. This could be Express, Rails, Django… this could even be part of your GraphQL implementation!',
+  description: 'Веб-фреймворк принимет HTTP-запросы и передает вашей реализации GraphQL, далее разворачивае ваши результаты. Это может быть Express, Rails, Django ... Это может быть даже часть реализации GraphQL!',
   diagram: WebFrameworkDiagram
 }

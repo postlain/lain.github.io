@@ -6,7 +6,7 @@ import MutationType from './mutation-type';
 
 export default {
   title: 'GraphQL Schema',
-  description: 'A Schema describes how your data is structured by creating a hierarchy of types. These types can be your application’s objects — e.g users, likes or photos — or other types used to query and mutate your application’s data.',
+  description: 'Схема описывает, как ваши данные структурированы путем создания иерархии типов. Эти типы могут быть объектами вашего приложения - e.g пользователей, любит или фотографии - или другие типы используются для запроса и мутирования данных вашего приложения.',
   diagram: SchemaDiagram,
   children: [
     ObjectTypeTopic,

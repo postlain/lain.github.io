@@ -7,7 +7,7 @@ import MutationsTopic from './mutations';
 
 export default {
   title: 'Relay',
-  description: 'Relay is a framework for Javascript applications that aims to abstract away the repetitive work of exchanging data with a server. It works together with a GraphQL server to query, deliver and mutate data in a consistent, dependable way. A tall order!',
+  description: 'Relay использует Javascript код, который стремится абстрагироваться от монотонной работы обмена данными с сервером. Он работает вместе с сервером GraphQL диспользуя его для создания запроса, доставки и изменения данных в консистенции.',
   officialDocs: "https://facebook.github.io/relay/",
   diagram: RelayDiagram,
   width: 321,

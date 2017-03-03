@@ -95,9 +95,9 @@ export default class App extends Component {
         </div>
         <ul className={styles.glossary}>
           <div className={styles.intro}>
-            <h1>Relay for Visual Learners</h1>
-            <p>Relay is a new framework from Facebook that promises to simplify a problem complex enough that the simplification is rather complex in itself <a href="docs/why-relay.html">(and here’s a visual explanation of the problem Relay solves)</a>.</p>
-            <p>I tend to learn things better when I can <em>see</em> how things fit together, so I made this interactive diagram that attempts to explain how Relay’s various parts fit together.</p>
+            <h1>Визуальная схема фреймворка Relay</h1>
+            <p>Relay - это новый фреймворк от Facebook, который позволяет упростить проблему передачи данных, но эта проблема сама по себе не проста в понимании <a href="docs/why-relay.html">(поэтому мы сделали тут визуализацию)</a>.</p>
+            <p>Как правило, информация лучше усваивается на визуализационных примерах, так что я сделал эту интерактивную схему, которая может объяснить, каким образом различные части Relay взаимодействуют друг с другу.</p>
           </div>
           { topicsWithExtras.map(makeTopic) }
         </ul>

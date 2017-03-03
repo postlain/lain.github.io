@@ -4,7 +4,7 @@ import ReactComponentTopic from './react-component';
 
 export default {
   title: 'Relay.Container',
-  description: 'Relay.Container is a higher order component that wraps around your React Component and ensures that it gets the data it depends on before rendering. This is where you’ll declare your component’s data dependencies with query fragments.',
+  description: 'Relay.Container является компонентом высшего порядка, он оборачивается вокруг ваших React компонентов  и получает данные зависимостей перед началом рендеринга. Это происходит где вы будете объявять зависимости данных вашего компонента от фрагмента запроса.',
   officialDocs: 'https://facebook.github.io/relay/docs/guides-containers.html#content',
   diagram: ContainerDiagram,
   children: [

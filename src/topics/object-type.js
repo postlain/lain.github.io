@@ -3,7 +3,7 @@ import ObjectTypeFields from './object-type-fields';
 
 export default {
   title: 'Object Type',
-  description: 'This is your generic object type. It could be anything in your data model, such as a user, a blog post or product review.',
+  description: 'Это ваш общий тип объекта. Это может быть что угодно в вашей модели данных, такие как пользователь, блог или обзор продукта.',
   diagram: ObjectTypeDiagram,
   children: ObjectTypeFields
 }
